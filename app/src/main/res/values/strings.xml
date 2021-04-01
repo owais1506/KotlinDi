@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDi</string>
+    <string name="facebook_app_id" translatable="false">1987107464682234</string>
+</resources>
